@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gambar": "product-images/gambar1.jpg",
+    "nama": "Baju Muslim",
+    "harga": "119.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:123456789 </p> <p>Address:Jl.Ahmad Yani No. 0 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "product-images/gambar2.jpg",
+    "nama": "Baju Muslim",
+    "harga": "80.000",
+    "ukuran": "L",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:12345678 </p> <p>Address:Jl.Handayani No. 20 </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "product-images/gambar3.jpg",
+    "nama": "Baju Muslim",
+    "harga": "100.000",
+    "ukuran": "L",
+    "contact": "<p> Email:nurrohman.com </p> <p> Phone:12345678 </p> <p>Address:Jl. Noor Rohman No. 01 </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "product-images/gambar4.jpg",
+    "nama": "Baju Muslim ",
+    "harga": "99.000",
+    "ukuran": "L",
+    "contact": "<p> Email:nurrohim.com </p> <p> Phone:082634193 </p> <p>Address:Jl. Noor Rohim No. 18 </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "product-images/gambar5.jpg",
+    "nama": "Baju Formal ",
+    "harga": "350.000",
+    "ukuran": "L",
+    "contact": "<p> Email:bocilganteng.com </p> <p> Phone:0831129874 </p> <p>Address:Jl. Asyikin Aja No. 02 </p>"
+  }
+]
